@@ -1,9 +1,8 @@
 # 🧠 AtCoder Solutions
 
-`💡 I'm dumb, but I really like competitive programming.`
+`💡 Not a genius, just someone who enjoys competitive programming.`
 
-> ### 🚀 Competitive Programming Progress  
-> **🧩 Still weak — currently solving problems from A to E/F.**  
-> **💫 Hope one day I can clear them all 💪✨**  
-> **⭐ Star this repo to support my illusion of being a good coder 🐧🐧🐧**  
-> **🌱 One day, I hope to build a website to share AtCoder solutions with everyone🌱**
+> ### 🚀 Competitive Programming Journey  
+> **🧩 Currently practicing problems from A to E/F and improving step by step.**  
+> **📈 Trying to get better every day through practice.**  
+> **⭐ If you find this repo helpful, feel free to star it!**  
